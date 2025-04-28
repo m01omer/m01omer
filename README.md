@@ -1,7 +1,7 @@
 <h1 align="center">I'm Muhammad Omer</h1>
 <h3 align="center">A passionate AI developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammad1Omer](https://github.com/m01omer)
+- 👨‍💻 All of my projects are available at [https://github.com/m01omer](https://github.com/m01omer)
 
 - 💬 Ask me about **C++ and Python**
 
